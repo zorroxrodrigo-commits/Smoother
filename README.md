@@ -22,4 +22,4 @@ This is a GitHub Copilot API error that typically occurs when:
 3. Try a different image file
 4. Wait a moment and try again (may be a temporary service issue)
 
-This error is related to GitHub's Copilot service infrastructure and is not related to any code in this repository.
+This error is related to GitHub Copilot's service infrastructure and is not related to any code in this repository.
